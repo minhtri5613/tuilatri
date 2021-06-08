@@ -10,7 +10,7 @@
 <channel>
 	<title>test &#8211; minhtri</title>
 	<atom:link href="http://localhost/minhtri/category/test/feed/" rel="self" type="application/rss+xml" />
-	<link>http://minhtri5613.github.io/tuilatri</link>
+	<link>https://minhtri5613.github.io/tuilatri</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 18 May 2021 07:14:39 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>tui test thoi</title>
-		<link>http://minhtri5613.github.io/tuilatri/test/tui-test-thoi/</link>
-					<comments>http://minhtri5613.github.io/tuilatri/test/tui-test-thoi/#respond</comments>
+		<link>https://minhtri5613.github.io/tuilatri/test/tui-test-thoi/</link>
+					<comments>https://minhtri5613.github.io/tuilatri/test/tui-test-thoi/#respond</comments>
 		
 		<dc:creator><![CDATA[tri huynh]]></dc:creator>
 		<pubDate>Tue, 18 May 2021 07:14:39 +0000</pubDate>
 				<category><![CDATA[test]]></category>
-		<guid isPermaLink="false">http://minhtri5613.github.io/tuilatri/?p=16</guid>
+		<guid isPermaLink="false">https://minhtri5613.github.io/tuilatri/?p=16</guid>
 
 					<description><![CDATA[test nhe cac ban minh tri]]></description>
 										<content:encoded><![CDATA[
 <p>test nhe cac ban minh tri</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://minhtri5613.github.io/tuilatri/test/tui-test-thoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhtri5613.github.io/tuilatri/test/tui-test-thoi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,7 +9,7 @@
 	<title>
 	Bình luận cho minhtri	</title>
 	<atom:link href="http://localhost/minhtri/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://minhtri5613.github.io/tuilatri</link>
+	<link>https://minhtri5613.github.io/tuilatri</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 18 May 2021 01:32:31 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Phản hồi cho Chào tất cả mọi người! bởi tri huynh		</title>
-		<link>http://minhtri5613.github.io/tuilatri/khong-phan-loai/chao-moi-nguoi/#comment-7</link>
+		<link>https://minhtri5613.github.io/tuilatri/khong-phan-loai/chao-moi-nguoi/#comment-7</link>
 
 		<dc:creator><![CDATA[tri huynh]]></dc:creator>
 		<pubDate>Tue, 18 May 2021 01:32:31 +0000</pubDate>
-		<guid isPermaLink="false">http://minhtri5613.github.io/tuilatri/?p=1#comment-7</guid>
+		<guid isPermaLink="false">https://minhtri5613.github.io/tuilatri/?p=1#comment-7</guid>
 
 					<description><![CDATA[ok]]></description>
 			<content:encoded><![CDATA[<p>ok</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>http://minhtri5613.github.io/tuilatri/khong-phan-loai/chao-moi-nguoi/#comment-6</link>
+		<link>https://minhtri5613.github.io/tuilatri/khong-phan-loai/chao-moi-nguoi/#comment-6</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
 		<pubDate>Tue, 11 May 2021 06:58:36 +0000</pubDate>
-		<guid isPermaLink="false">http://minhtri5613.github.io/tuilatri/?p=1#comment-6</guid>
+		<guid isPermaLink="false">https://minhtri5613.github.io/tuilatri/?p=1#comment-6</guid>
 
 					<description><![CDATA[Xin chào, đây là một bình luận
 Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.
