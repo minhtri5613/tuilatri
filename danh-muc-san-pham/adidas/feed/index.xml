@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; minhtri</title>
-	<atom:link href="http://localhost/minhtri/cua-hang/feed/" rel="self" type="application/rss+xml" />
+	<title>Adidas &#8211; minhtri</title>
+	<atom:link href="http://localhost/minhtri/danh-muc-san-pham/adidas/feed/" rel="self" type="application/rss+xml" />
 	<link>https://minhtri5613.github.io/tuilatri</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 15 Jun 2021 07:54:07 +0000</lastBuildDate>
