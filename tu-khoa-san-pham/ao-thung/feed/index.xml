@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/minhtri/tu-khoa-san-pham/ao-thung/feed/" rel="self" type="application/rss+xml" />
 	<link>https://minhtri5613.github.io/tuilatri</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 15 Jun 2021 08:26:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Jun 2021 00:57:37 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>adidas TRAINING Áo thun 3 Sọc Nữ Màu trắng</title>
-		<link>https://minhtri5613.github.io/tuilatri/sản%20phẩm/adidas-training-ao-thun-3-soc-nu-mau-trang/</link>
-					<comments>https://minhtri5613.github.io/tuilatri/sản%20phẩm/adidas-training-ao-thun-3-soc-nu-mau-trang/#respond</comments>
+		<link>https://minhtri5613.github.io/tuilatri/product/adidas-training-ao-thun-3-soc-nu-mau-trang/</link>
+					<comments>https://minhtri5613.github.io/tuilatri/product/adidas-training-ao-thun-3-soc-nu-mau-trang/#respond</comments>
 		
 		<dc:creator><![CDATA[tri huynh]]></dc:creator>
 		<pubDate>Tue, 15 Jun 2021 02:16:46 +0000</pubDate>
@@ -65,7 +65,7 @@ S                              M                      
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://minhtri5613.github.io/tuilatri/sản%20phẩm/adidas-training-ao-thun-3-soc-nu-mau-trang/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhtri5613.github.io/tuilatri/product/adidas-training-ao-thun-3-soc-nu-mau-trang/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
